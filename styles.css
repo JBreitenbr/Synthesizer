@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo');
+
 body {
   background: papayawhip;
+  font-family: Cairo;
+}
+
+h4 {
+  text-align: center;
 }
 
 #toggle {
